@@ -1,0 +1,1 @@
+This repository contains resources for the manual testing of an opencart e-commerce platform.it include detailed test plans,ttest cases and test execution reports.the goal is to ensure the platform's functionality,usability and performance meets the required standards.
